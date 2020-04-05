@@ -7,7 +7,7 @@ To run app:
 
 Instruction:
 
-1. In search bar, type movie's name you want to search (Ex: Spiderman)
+1. In search bar, type movie's name you want to search (Ex: Flash)
 2. Press Enter
 3. Click at the movie you want to know more about it
 
